@@ -1,0 +1,4 @@
+staffchatjs
+===========
+
+Staff Chat Server
